@@ -2,7 +2,7 @@
   <PropertyGroup>
     <Product>XIVLauncher</Product>
     <AssemblyTitle>XIVLauncher</AssemblyTitle>
-    <Description>Custom launcher for the most critically acclaimed MMO.</Description>
+    <Description>Custom launcher without preferences for the most critically acclaimed MMO.</Description>
     <VersionPrefix>6.3.4</VersionPrefix>
   </PropertyGroup>
 
